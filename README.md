@@ -10,3 +10,5 @@ klcnlidnclkeb
 1. index.html
 
 Edit part1 - Nothing Done
+
+I have done some of the changes
